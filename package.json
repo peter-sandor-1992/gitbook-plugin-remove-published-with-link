@@ -1,0 +1,23 @@
+{
+  "name": "gitbook-plugin-remove-published-with-link",
+  "version": "1.0.0",
+  "description": "GitBook plugin which removes the \"Published with GitBook\" link from the bottom of the navigation pane",
+  "main": "index.js",
+  "engines": {
+     "gitbook": ">1.x.x"
+  },
+  "homepage": "https://github.com/GitbookIO/plugin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GitbookIO/plugin.git"
+  },
+  "keywords": [
+    "gitbook",
+	"gibook-plugin",
+    "remove",
+    "publish",
+    "link"
+  ],
+  "author": "p.sandor",
+  "license": "MIT"
+}
